@@ -1,0 +1,81 @@
+[
+    {
+        "Name": "КАЛЬЦИЙ"
+    },
+    {
+        "Name": "ЙОД"
+    },
+    {
+        "Name": "ЦИНК"
+    },
+    {
+        "Name": "ВИТАМИН К",
+        "IsVitamin": true
+    },
+    {
+        "Name": "МАГНИЙ"
+    },
+    {
+        "Name": "ВИТАМИН А",
+        "IsVitamin": true
+    },
+    {
+        "Name": "НАТРИЙ"
+    },
+    {
+        "Name": "ФОСФОР"
+    },
+    {
+        "Name": "КАЛИЙ"
+    },
+    {
+        "Name": "ВИТАМИН С",
+        "IsVitamin": true
+    },
+    {
+        "Name": "ВИТАМИН B5",
+        "IsVitamin": true
+    },
+    {
+        "Name": "СЕЛЕН"
+    },
+    {
+        "Name": "ВИТАМИН B6",
+        "IsVitamin": true
+    },
+    {
+        "Name": "ВИТАМИН В1",
+        "IsVitamin": true
+    },
+    {
+        "Name": "ВИТАМИН В2",
+        "IsVitamin": true
+    },
+    {
+        "Name": "ВИТАМИН В3",
+        "IsVitamin": true
+    },
+    {
+        "Name": "ВИТАМИН В7",
+        "IsVitamin": true
+    },
+    {
+        "Name": "ВИТАМИН В9",
+        "IsVitamin": true
+    },
+    {
+        "Name": "ВИТАМИН В12",
+        "IsVitamin": true
+    },
+    {
+        "Name": "ВИТАМИН Е",
+        "IsVitamin": true
+    },
+    {
+        "Name": "ВИТАМИН Д",
+        "IsVitamin": true
+    },
+    {
+        "Name": "ЖЕЛЕЗО"
+    }
+]

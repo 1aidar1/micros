@@ -1,0 +1,17 @@
+[
+    {
+        "PowerCode": 1,
+        "Description": "незначительное воздействие",
+        "Color": "#C9E2D0"
+    },
+    {
+        "PowerCode": 2,
+        "Description": "умеренное воздействие",
+        "Color": "#13AB73"
+    },
+    {
+        "PowerCode": 3,
+        "Description": "серьезное воздействие",
+        "Color": "#2A7767"
+    }
+]

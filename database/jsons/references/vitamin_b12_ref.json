@@ -1,0 +1,38 @@
+[
+    {
+        "Id": 1,
+        "Micro": "ВИТАМИН В12",
+        "Head": "<p>[1] O'Leary F, Samman S. Vitamin B12 in health and disease. Nutrients. 2010 Mar;2(3):299-316. doi: 10.3390/nu2030299. Epub 2010 Mar 5. PMID: 22254022; PMCID: PMC3257642.</p>",
+        "Body": "<p>Vitamin B(12) is essential for DNA synthesis and for cellular energy production.This review aims to outline the metabolism of vitamin B(12), and to evaluate the causes and consequences of sub-clinical vitamin B(12) deficiency. Vitamin B(12) deficiency is common, mainly due to limited dietary intake of animal foods or malabsorption of the vitamin. Vegetarians are at risk of vitamin B(12) deficiency as are other groups with low intakes of animal foods or those with restrictive dietary patterns. Malabsorption of vitamin B(12) is most commonly seen in the elderly, secondary to gastric achlorhydria. The symptoms of sub-clinical deficiency are subtle and often not recognized. The long-term consequences of sub-clinical deficiency are not fully known but may include adverse effects on pregnancy outcomes, vascular, cognitive, bone and eye health.</p>\n<p><strong>Keywords: </strong>adults; chronic disease; nutrition; physiology; vitamin B12.</p>\n"
+    },
+    {
+        "Id": 2,
+        "Micro": "ВИТАМИН В12",
+        "Head": "<p>[2] Socha DS, DeSouza SI, Flagg A, Sekeres M, Rogers HJ. Severe megaloblastic anemia: Vitamin deficiency and other causes. Cleve Clin J Med. 2020 Mar;87(3):153-164. doi: 10.3949/ccjm.87a.19072. PMID: 32127439.</p>",
+        "Body": "<p>Megaloblastic anemia causes macrocytic anemia from ineffective red blood cell production and intramedullary hemolysis. The most common causes are folate (vitamin B<sub>9</sub>) deficiency and cobalamin (vitamin B<sub>12</sub>) deficiency. Megaloblastic anemia can be diagnosed based on characteristic morphologic and laboratory findings. However, other benign and neoplastic diseases need to be considered, particularly in severe cases. Therapy involves treating the underlying cause-eg, with vitamin supplementation in cases of deficiency, or with discontinuation of a suspected medication.</p>\n"
+    },
+    {
+        "Id": 3,
+        "Micro": "ВИТАМИН В12",
+        "Head": "<p>[3] Green R. Vitamin B<sub>12</sub> deficiency from the perspective of a practicing hematologist. Blood. 2017 May 11;129(19):2603-2611. doi: 10.1182/blood-2016-10-569186. Epub 2017 Mar 30. PMID: 28360040.</p>",
+        "Body": "<p>B<sub>12</sub> deficiency is the leading cause of megaloblastic anemia, and although more common in the elderly, can occur at any age. Clinical disease caused by B<sub>12</sub> deficiency usually connotes severe deficiency, resulting from a failure of the gastric or ileal phase of physiological B<sub>12</sub> absorption, best exemplified by the autoimmune disease pernicious anemia. There are many other causes of B<sub>12</sub> deficiency, which range from severe to mild. Mild deficiency usually results from failure to render food B<sub>12</sub> bioavailable or from dietary inadequacy. Although rarely resulting in megaloblastic anemia, mild deficiency may be associated with neurocognitive and other consequences. B<sub>12</sub> deficiency is best diagnosed using a combination of tests because none alone is completely reliable. The features of B<sub>12</sub> deficiency are variable and may be atypical. Timely diagnosis is important, and treatment is gratifying. Failure to diagnose B<sub>12</sub> deficiency can have dire consequences, usually neurological. This review is written from the perspective of a practicing hematologist.</p>\n"
+    },
+    {
+        "Id": 4,
+        "Micro": "ВИТАМИН В12",
+        "Head": "<p>[4] Quadros EV. Advances in the understanding of cobalamin assimilation and metabolism. Br J Haematol. 2010 Jan;148(2):195-204. doi: 10.1111/j.1365-2141.2009.07937.x. Epub 2009 Oct 12. PMID: 19832808; PMCID: PMC2809139.</p>",
+        "Body": "<p>The haematological and neurological consequences of cobalamin deficiency define the essential role of this vitamin in key metabolic reactions. The identification of cubilin-amnionless as the receptors for intestinal absorption of intrinsic factor-bound cobalamin and the plasma membrane receptor for cellular uptake of transcobalamin bound cobalamin have provided a clearer understanding of the absorption and cellular uptake of this vitamin. As the genes involved in the intracellular processing of cobalamins and genetic defects of these pathways are identified, the metabolic disposition of cobalamins and the proteins involved are being recognized. The synthesis of methylcobalamin and 5'-deoxyadenosylcobalamin, their utilization in conjunction with methionine synthase and methylmalonylCoA mutase, respectively, and the metabolic consequences of defects in these pathways could provide insights into the clinical presentation of cobalamin deficiency.</p>\n"
+    },
+    {
+        "Id": 5,
+        "Micro": "ВИТАМИН В12",
+        "Head": "<p>[5] Oo TH. Diagnostic difficulties in pernicious anemia. Discov Med. 2019 Nov-Dec;28(155):247-253. PMID: 32053765.</p>",
+        "Body": "<p>Pernicious anemia (PA), the commonest cause of cobalamin deficiency (CD) in the world, is an autoimmune disease of multifactorial origin and is characterized by chronic atrophic gastritis (CAG) and defective absorption of cobalamin from the terminal ileum due to interference by the intrinsic factor (IF) antibodies. PA-related CD is a lengthy process, which if untreated, can lead to irreversible hematological and neurological sequelae. Although safe and effective therapy is available and the management of PA is straightforward, the diagnosis of PA can be extremely difficult to obtain due to myriad and diverse clinical presentations, frequently coexisting diseases, and limitations of currently available diagnostic tests. Diagnostic dilemmas may occur when PA patients present with normal or spuriously high serum cobalamin levels, dysplastic features of ring sideroblasts in the bone marrow (BM), hemolysis, and concomitant diseases such as iron deficiency or thalassemia. Herein, the author discusses an overview of diagnostic difficulties, with regards to morphological mimics, coexisting diseases, limitations of currently available tests, and how to diagnose PA in the era of imperfect laboratory tests.</p>\n"
+    },
+    {
+        "Id": 6,
+        "Micro": "ВИТАМИН В12",
+        "Head": "<p>[6] Kulnigg-Dabsch S. Autoimmune gastritis. Wien Med Wochenschr. 2016 Oct;166(13-14):424-430. doi: 10.1007/s10354-016-0515-5. Epub 2016 Sep 26. PMID: 27671008; PMCID: PMC5065578.</p>",
+        "Body": "<p>Autoimmune gastritis is a chronic inflammatory disease with destruction of parietal cells of the corpus and fundus of the stomach. The known consequence is vitamin B12 deficiency and, consequently, pernicious anemia. However, loss of parietal cells reduces secretion of gastric acid which is also required for absorption of inorganic iron; thus, iron deficiency is commonly found in patients with autoimmune gastritis. This usually precedes vitamin B12 deficiency and is found mainly in young women. Patients with chronic iron deficiency, especially those refractory to oral iron therapy, should therefore be evaluated for the presence of autoimmune gastritis.</p>\n<p><strong>Keywords: </strong>Autoimmune gastritis; Chronic atrophic gastritis; Gastric cancer; Iron deficiency; Vitamin B 12 deficiency.</p>\n"
+    }
+]

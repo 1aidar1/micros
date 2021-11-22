@@ -1,0 +1,28 @@
+
+[
+    {
+        "EfficiencyCode": 1,
+        "Description":"недостаточно доказательств",
+        "Color": "#000000"
+    },
+    {
+        "EfficiencyCode": 2,
+        "Description":"возможная неэффективность",
+        "Color": "#B85D6B"
+    },
+    {
+        "EfficiencyCode": 3,
+        "Description":"возможная эффективность",
+        "Color": "#C9E2D0"
+    },
+    {
+        "EfficiencyCode": 4,
+        "Description":"вероятная эффективность",
+        "Color": "#13AB73"
+    },
+    {
+        "EfficiencyCode": 5,
+        "Description":"доказанная эффективность",
+        "Color": "#2A7767"
+    }
+]
